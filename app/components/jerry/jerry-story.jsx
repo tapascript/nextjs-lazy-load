@@ -14,7 +14,7 @@ function JerryStory() {
                 className="bg-pink-600 text-white rounded p-1"
                 onClick={() => setShown(!shown)}
             >
-                Load Jerry's Story
+                Load 🐀 Jerry's Story
             </button>
 
             {shown && <Suspense fallback={<h1>Loading Jerry's Story</h1>}>

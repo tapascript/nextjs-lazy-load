@@ -17,7 +17,7 @@ function SpikeStory() {
                 className="bg-slate-600 text-white rounded p-1"
                 onClick={() => setShown(!shown)}
             >
-                Load Spike's Story
+                Load 🦮 Spike's Story
             </button>
 
             {shown && <LazySpike />}

@@ -17,7 +17,7 @@ function TomStory() {
                 className="bg-blue-600 text-white rounded p-1"
                 onClick={() => setShown(!shown)}
             >
-                Load Tom's Story
+                Load 🐈 Tom's Story
             </button>
 
             {shown && <LazyTom />}
