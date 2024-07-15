@@ -1,6 +1,6 @@
 const LazyTom = () => {
   return (
-    <div className="flex flex-col justify-center">
+    <div className="flex flex-col">
       <h1 className="text-3xl my-2">The Lazy Tom</h1>
       <p className="text-xl my-1">
         Tom, named "Jasper" in his debut appearance, is a gray and white
