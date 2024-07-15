@@ -1,6 +1,6 @@
-import TomStory from "./components/tom-story";
-import JerryStory from "./components/jerry-story";
-import SpikeStory from "./components/spike-story";
+import TomStory from "./components/tom/tom-story";
+import JerryStory from "./components/jerry/jerry-story";
+import SpikeStory from "./components/spike/spike-story";
 
 export default function Home() {
   return (
