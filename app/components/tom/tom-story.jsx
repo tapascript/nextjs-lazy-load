@@ -4,7 +4,7 @@ import { useState } from "react";
 import dynamic from "next/dynamic";
 
 const LazyTom = dynamic(() => import("./tom"), {
-    loading: () => <h1>Loading Tom's Story...</h1>,
+    loading: () => <h1>Loading Tom&apos;s Story...</h1>,
 });
 
 function TomStory() {
@@ -17,7 +17,7 @@ function TomStory() {
                 className="bg-blue-600 text-white rounded p-1"
                 onClick={() => setShown(!shown)}
             >
-                Load 🐈 Tom's Story
+                Load 🐈 Tom&apos;s Story
             </button>
 
             {shown && <LazyTom />}

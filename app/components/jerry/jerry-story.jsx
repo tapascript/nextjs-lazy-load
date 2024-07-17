@@ -14,10 +14,10 @@ function JerryStory() {
                 className="bg-pink-600 text-white rounded p-1"
                 onClick={() => setShown(!shown)}
             >
-                Load 🐀 Jerry's Story
+                Load 🐀 Jerry&apos;s Story
             </button>
 
-            {shown && <Suspense fallback={<h1>Loading Jerry's Story</h1>}>
+            {shown && <Suspense fallback={<h1>Loading Jerry&apos;s Story</h1>}>
                 <LazyJerry />
             </Suspense>}
         </div>
