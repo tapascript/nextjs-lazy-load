@@ -4,15 +4,15 @@ The source code used in the Next.JS Lazy Loading Tutorial.
 
 ![The App](https://github.com/user-attachments/assets/2846e0c9-3f90-44fa-b3bb-233576fefead)
 
-## Use the Demo App
+## 🔥 Use the Demo App
 
 You can access the demo application from here: [https://nextjs-lazy-load.netlify.app/](https://nextjs-lazy-load.netlify.app/)
 
-## Learn About Lazy Loading
+## 👨‍🏫 Learn About Lazy Loading
 
 Learn about the Lazy Loading in Next.js from this interactive video tutorial: [https://www.youtube.com/watch?v=gq9bBZru78Y](https://www.youtube.com/watch?v=gq9bBZru78Y)
 
-## Run the App Locally
+## 🏃🏼 Run the App Locally
 
 - First, install dependencies:
   ```bash
@@ -39,7 +39,7 @@ Learn about the Lazy Loading in Next.js from this interactive video tutorial: [h
 
 - Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Learn Next.js to Build Full-Stack Applications
+## 📦 Learn Next.js to Build Full-Stack Applications
 
 - To learn more about Next.js, take a look at the following resources by clicking on the image below:
   
