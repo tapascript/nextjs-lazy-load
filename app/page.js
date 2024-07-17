@@ -13,7 +13,7 @@ const AServerComp = dynamic(() => import('./components/server-comps/server-comp'
 
 export default function Home() {
   return (
-    <div className="flex flex-wrap justify-center ">
+    <div className="flex flex-wrap justify-center overflow-auto max-h-screen">
       <TomStory />
       <JerryStory />
       <SpikeStory />
