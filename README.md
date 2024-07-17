@@ -1,38 +1,49 @@
 # Next.js Lazy Loading
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The source code used in the Next.JS Lazy Loading Tutorial.
 
-## Getting Started
+![The App](https://github.com/user-attachments/assets/2846e0c9-3f90-44fa-b3bb-233576fefead)
 
-First, run the development server:
+## Use the Demo App
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+You can access the demo application from here: [https://nextjs-lazy-load.netlify.app/](https://nextjs-lazy-load.netlify.app/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Learn About Lazy Loading
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Learn about the Lazy Loading in Next.js from this interactive video tutorial: [https://www.youtube.com/watch?v=gq9bBZru78Y](https://www.youtube.com/watch?v=gq9bBZru78Y)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Run the App Locally
 
-## Learn More
+- First, install dependencies:
+  ```bash
+  npm install
+  # or
+  yarn install
+  # or
+  pnpm install
+  # or
+  bun install
+  ``` 
 
-To learn more about Next.js, take a look at the following resources:
+- Run the development server:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+  ```bash
+  npm run dev
+  # or
+  yarn dev
+  # or
+  pnpm dev
+  # or
+  bun dev
+  ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Deploy on Vercel
+## Learn Next.js to Build Full-Stack Applications
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- To learn more about Next.js, take a look at the following resources by clicking on the image below:
+  
+  [![Full Stack with Next.js](https://github.com/user-attachments/assets/ed2752ba-8ea5-499a-a84e-d702679ac5ce)](https://www.youtube.com/watch?v=VSB2h7mVhPg&list=PLIJrr73KDmRwz_7QUvQ9Az82aDM9I8L_8 "Video Title") 
+  
+  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
